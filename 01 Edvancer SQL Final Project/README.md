@@ -1,6 +1,6 @@
 # Edvancer SQL Final Project
 
-During the SQL module of our course, we were asked to do one final project, a set of 10 questions. We had to write queries and generate a csv for each query output. 
+During the SQL module of our course, we were asked to do one final project, a set of 10 questions. We had to write queries and generate a csv for each query output. Further , there was also time limited quiz we had to clear the module. I have uploaded the quiz questions along with codes/answers in a separate file.
 I have attached the necessary csv files and the questions along with my codes.
 
 ## Dataset Description
