@@ -1,0 +1,1 @@
+Post course completion, there were a few job readiness test available to us involving SQL, R, Python. This was one of the tests for SQL. I have attached the dataset and an SQL script containing the questions and queries.
